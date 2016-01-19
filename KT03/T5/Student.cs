@@ -8,6 +8,7 @@ namespace T5
 {
     class Student
     {
+
         public string Name { get; set; }
         public int Motivation { get; set; }
     }
